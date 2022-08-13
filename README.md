@@ -2,7 +2,7 @@
 ## Hi there 👋
 ---
 
-I'm a software engineering intern at [Epirus](https://www.epirusinc.com) working on Leonidas, a high powered directed energy system. Last year, I interned at HP Inc working in 3D printing and imaging. From Los Angeles, CA. Grad student at CSULB studying computer science. 
+I was a software engineering intern at [Epirus](https://www.epirusinc.com) working on Leonidas, a high powered directed energy system. Last year, I interned at HP Inc working in 3D printing and imaging. From Los Angeles, CA. Grad student at CSULB studying computer science. 
 
 
 Here are some ideas to get you started:
